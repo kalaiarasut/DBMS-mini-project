@@ -20,8 +20,8 @@ This is a mini project built using PHP for demonstrating the concepts of Databas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kalaiarasut/Bookstore Management.git
-   cd Bookstore Management
+   git clone https://github.com/kalaiarasut/Bookstore-Management.git
+   cd Bookstore-Management
    ```
 
 2. **Configure the database**
@@ -36,7 +36,7 @@ This is a mini project built using PHP for demonstrating the concepts of Databas
 ## Project Structure
 
 ```
-DBMS-mini-project/
+DBMS/
 ├── index.php
 ├── about.php
 ├── config.php
